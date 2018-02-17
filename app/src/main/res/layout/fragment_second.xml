@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="squareandcube.com.fragmentvaluepassing.SecondFragment">
+
+    <TextView
+        android:id="@+id/txtData"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Data will apper here"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:textSize="20sp" />
+
+</LinearLayout>
